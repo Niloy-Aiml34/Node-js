@@ -11,7 +11,7 @@ const server = http.createServer((req, res) => {
 });
 
 // Set the port and hostname for the server
-const PORT = 3000;
+const PORT = 4000;
 const HOSTNAME = 'localhost';
 
 // Start the server
